@@ -13,7 +13,7 @@ s.source = { :git => 'https://github.com/Jungle-Works/Tookan-Agent-iOS-SDK.git',
 s.ios.deployment_target = '13.0'
 s.ios.vendored_frameworks = 'Tookan.framework'
 
-s.dependency 'GoogleMaps', '4.0.0'
+s.dependency 'GoogleMaps'
 s.dependency 'Firebase/Core', '>= 0'
 s.dependency 'FirebaseCrashlytics', '>= 0'
 s.dependency 'Google-Maps-iOS-Utils', '~> 3.4.1'
