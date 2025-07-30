@@ -1,11 +1,11 @@
 framework module Tookan {
   umbrella header "Tookan.h"
-
   export *
+
   module * { export * }
 }
 
 module Tookan.Swift {
-    header "Tookan-Swift.h"
-    requires objc
+  header "Tookan-Swift.h"
+  requires objc
 }
