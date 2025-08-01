@@ -90,7 +90,7 @@
 		</data>
 		<key>CustomDatePicker.nib/runtime.nib</key>
 		<data>
-		22oTtLd3Z9SxE7H9eltGgFzV7Hw=
+		mTcaMcSJI9WgzkEiQ7GatWiWPAI=
 		</data>
 		<key>CustomDropdown.nib</key>
 		<data>
@@ -1763,7 +1763,7 @@
 		</data>
 		<key>Modules/Tookan.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		rqJofwyZx/67llGXGEKGeVbPFQE=
+		1O+xiIuJ3zgPYEaHVnkpSjLtLfU=
 		</data>
 		<key>Modules/Tookan.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -1771,11 +1771,11 @@
 		</data>
 		<key>Modules/Tookan.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		LqnduXDonXLHqYWDDgIwU5yntJM=
+		LyIblJKFQexCfJ/Uf/XECEvXVic=
 		</data>
 		<key>Modules/Tookan.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		A5aat2ebProKWXKJSBWOfNL4Yzk=
+		jIAwpjXLpII/vgJ14ArrnIQWxlI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -2468,7 +2468,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			r7WX6UhXxRnO9zIVtQHWMh/6gZKNVDwtxENo/sv4hUk=
+			drTMK4F9HIfWBV+kXkzpsZo3AwNIf8Q22+zDJaoF1h4=
 			</data>
 		</dict>
 		<key>CustomDropdown.nib</key>
@@ -5058,7 +5058,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			c2pzgD8e658MyjTfRzzxiLT9dlDY7JlqskVqhIwg5HE=
+			So8It9Fgw1QDbLwvtIm4RBFERfe2+4PyHdCwJF7AN20=
 			</data>
 		</dict>
 		<key>Modules/Tookan.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -5072,14 +5072,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3ZNt2DDQW/6PLTNz8qqqKcHTeYdRdqbj+8mUjxFIaNg=
+			QgEUGweLVN0+FKekFX8xuVx7qoDeRPcNi+RTLID96J8=
 			</data>
 		</dict>
 		<key>Modules/Tookan.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			37e0Av+xzXo1kzqf1hpt71LD9Gesfz0uDaK+idPDDJo=
+			xfcs63dCtozW5GWqNvNnoajQDmvgARAHjtutgiOTV48=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
