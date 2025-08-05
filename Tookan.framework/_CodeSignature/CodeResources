@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		i56tjcpTczWUSpzycLwcvSftnU8=
+		</data>
 		<key>AddAnotherPickupAndDelivery.nib</key>
 		<data>
 		sELzrSV1v2r91T9bkFc+aQ5CmP0=
@@ -26,7 +30,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		B/1bqYKRiBWf3ibLjA0FVefggXQ=
+		6N0UbGpy+5uEIh+Wa9c++0Ejwgg=
 		</data>
 		<key>AudioTableViewCell.nib</key>
 		<data>
@@ -90,7 +94,7 @@
 		</data>
 		<key>CustomDatePicker.nib/runtime.nib</key>
 		<data>
-		cmJyH9mW8x3fJSovWD67sOMurpU=
+		m4WjfWIEZ/fbZVUxE9Zu36d50+M=
 		</data>
 		<key>CustomDropdown.nib</key>
 		<data>
@@ -1763,7 +1767,7 @@
 		</data>
 		<key>Modules/Tookan.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		SZcMejzVKftTg1YkU26hxuaUJtU=
+		AR1lQP0ZN66vhHy4hpNBWjItmeU=
 		</data>
 		<key>Modules/Tookan.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -1771,11 +1775,11 @@
 		</data>
 		<key>Modules/Tookan.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		LyIblJKFQexCfJ/Uf/XECEvXVic=
+		LqnduXDonXLHqYWDDgIwU5yntJM=
 		</data>
 		<key>Modules/Tookan.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		nEcpimbOU6KO+i7rrkWBeWfGUGg=
+		VCCwDoQS77MBCVsH6pmGIhlFsIQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -2356,7 +2360,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+jUQ22hm9zKKCHcb9AqimjX2o4aPfUbei/J92rhSNwk=
+			yep4LUULJGWHiljMhngUyrxevKhiotNV4qLFZDWBOO0=
 			</data>
 		</dict>
 		<key>AudioTableViewCell.nib</key>
@@ -2468,7 +2472,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TVcTpWaKMOT7cONXjpxAe/vdJATMW8DmI61Z3gHFGKQ=
+			dVizz83DqijWKbNY+KdYVbCPvEmi6EzA6W+S3zMbYN4=
 			</data>
 		</dict>
 		<key>CustomDropdown.nib</key>
@@ -5058,7 +5062,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			A18dif/9oJBn3oo+l3O69f/2Abjl9suZbNBcRsvYF0w=
+			daY9JIL56bhFnSXkg/uR0B1ER8pot6luc8nHdj4gHfc=
 			</data>
 		</dict>
 		<key>Modules/Tookan.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -5072,14 +5076,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QgEUGweLVN0+FKekFX8xuVx7qoDeRPcNi+RTLID96J8=
+			3ZNt2DDQW/6PLTNz8qqqKcHTeYdRdqbj+8mUjxFIaNg=
 			</data>
 		</dict>
 		<key>Modules/Tookan.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iijG6DiGC99RwK0K6pknPpXsKMJT3cBwlZelSqAZZh4=
+			8/pTtm62Hl+NucetexDizb8DQjUH9oHhLFcwmUFfw6g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
