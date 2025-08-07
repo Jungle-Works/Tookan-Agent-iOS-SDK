@@ -959,7 +959,7 @@
 		</data>
 		<key>Headers/Tookan-Swift.h</key>
 		<data>
-		qQlnktgJRRY4sa76SmfUNy/DYFU=
+		yNi9MAaORPOI/Fs22Jlsu3limN4=
 		</data>
 		<key>Headers/Tookan.h</key>
 		<data>
@@ -1763,27 +1763,19 @@
 		</data>
 		<key>Modules/Tookan.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		VR2+F9ee2s9I5gd5EMw6s3wS+VQ=
+		0n2uYNAc1QsSBengD9m1PaN87n4=
 		</data>
 		<key>Modules/Tookan.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		wDXktVKEQq21PnhUcKI5jmpIz2U=
-		</data>
-		<key>Modules/Tookan.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
-		<data>
-		Di2PBNEeO+qf3tc1yVKZ9mZ2Fu8=
+		gcwBsH4BgyFY4sVtNt+/xOKS3vY=
 		</data>
 		<key>Modules/Tookan.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
 		jqbOdnVHa2joEXo7JWJnFvAhfMw=
 		</data>
-		<key>Modules/Tookan.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
-		<data>
-		Di2PBNEeO+qf3tc1yVKZ9mZ2Fu8=
-		</data>
 		<key>Modules/Tookan.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		8iGGB3ypd2VVqwC3Th4kR2nurSk=
+		T58wxz3K6hZSasEAvdwXJ40l+7g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -3666,7 +3658,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QGwtq3TqgNnXFgyKGzXIMLsWDhyn7Y7gFyxRYWe6S5U=
+			OcEbiWZz/JOgg9IY0XRG2eGdvhN1uDjbyRIYNZqaP/0=
 			</data>
 		</dict>
 		<key>Headers/Tookan.h</key>
@@ -5066,21 +5058,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Us1UHj9OOizhMAOupenyX+8piJBhSaNuOd6emNdRFjg=
+			mvEgbwSBkvIEi1ncqV13yQo5QkJyQH+s6nJ734/4uE8=
 			</data>
 		</dict>
 		<key>Modules/Tookan.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lUz1Cn5SpSgh2DHm8VO/WA14EOkWb3XkBYEy5b/tzzg=
-			</data>
-		</dict>
-		<key>Modules/Tookan.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5SMHz2yUfyurx7ZRxV6KEqTu4/H6T0mBGpAruI9/DHU=
+			Qnesa0n4URGWAopawg9bGx36dUwkYV00BoCJ8LFzlyg=
 			</data>
 		</dict>
 		<key>Modules/Tookan.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -5090,18 +5075,11 @@
 			jJcU9VmlEgTl4OGBIzXvxdCzoWWkEnZZ1FybMvIoRQo=
 			</data>
 		</dict>
-		<key>Modules/Tookan.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5SMHz2yUfyurx7ZRxV6KEqTu4/H6T0mBGpAruI9/DHU=
-			</data>
-		</dict>
 		<key>Modules/Tookan.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1weJxVFMJCImLT+3B+AmrZ0roY0qIx9jbG8kc+PVAMU=
+			SQnrcxXSxM9rB1z081j4ZgD9nvytiQSSSC9zTIAHZ6w=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
