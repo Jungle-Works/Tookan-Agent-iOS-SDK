@@ -418,7 +418,7 @@ SWIFT_PROTOCOL("_TtP6Tookan34FlexibleSteppedProgressBarDelegate_")
 - (NSString * _Nonnull)progressBar:(FlexibleSteppedProgressBar * _Nonnull)progressBar textAtIndex:(NSInteger)index position:(enum FlexibleSteppedProgressBarTextLocation)position SWIFT_WARN_UNUSED_RESULT;
 @end
 
-typedef SWIFT_ENUM(NSInteger, FlexibleSteppedProgressBarTextLocation, closed) {
+typedef SWIFT_ENUM(NSInteger, FlexibleSteppedProgressBarTextLocation, open) {
   FlexibleSteppedProgressBarTextLocationTop = 0,
   FlexibleSteppedProgressBarTextLocationBottom = 1,
   FlexibleSteppedProgressBarTextLocationCenter = 2,
@@ -437,7 +437,7 @@ SWIFT_CLASS("_TtC6Tookan13LTEmitterView")
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
 
-typedef SWIFT_ENUM(NSInteger, LTMorphingEffect, closed) {
+typedef SWIFT_ENUM(NSInteger, LTMorphingEffect, open) {
   LTMorphingEffectScale = 0,
   LTMorphingEffectEvaporate = 1,
   LTMorphingEffectFall = 2,
