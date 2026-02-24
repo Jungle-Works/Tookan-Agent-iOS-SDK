@@ -624,7 +624,8 @@ SWIFT_CLASS("_TtC6Tookan8ScanView")
 
 SWIFT_CLASS("_TtC6Tookan14TookanInitiate")
 @interface TookanInitiate : NSObject
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
 #endif

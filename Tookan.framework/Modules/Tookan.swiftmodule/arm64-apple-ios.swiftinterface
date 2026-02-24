@@ -594,9 +594,9 @@ public struct SILENT_TYPE {
   public static let show: Swift.Int
   public static let hide: Swift.Int
 }
-@objc @_inheritsConvenienceInitializers public class TookanInitiate : ObjectiveC.NSObject {
+@objc public class TookanInitiate : ObjectiveC.NSObject {
   public var completionHandler: ((_ viewC: UIKit.UIViewController) -> ())?
-  @objc override dynamic public init()
+  public init(googleMapsKey: Swift.String)
   public func initialize(loginId: Swift.String, silentType: Swift.Int, deviceType: Swift.String, apiKey: Swift.String, deviceToken: Swift.String, customURL: Swift.String, responseReceived: @escaping (_ succeeded: Swift.Bool, _ response: Swift.String) -> ())
   public func trigerTookan(responseReceived: @escaping (_ succeeded: Swift.Bool, _ response: Swift.String) -> ())
   public func changeFleetStatus(responseReceived: @escaping (_ succeeded: Swift.Bool, _ response: Swift.String, _ agentID: Swift.String) -> ())

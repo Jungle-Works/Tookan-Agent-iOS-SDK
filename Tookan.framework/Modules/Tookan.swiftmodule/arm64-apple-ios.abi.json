@@ -16537,27 +16537,27 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init()",
+            "printedName": "init(googleMapsKey:)",
             "children": [
               {
                 "kind": "TypeNominal",
                 "name": "TookanInitiate",
                 "printedName": "Tookan.TookanInitiate",
                 "usr": "c:@M@Tookan@objc(cs)TookanInitiate"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
               }
             ],
             "declKind": "Constructor",
-            "usr": "c:@M@Tookan@objc(cs)TookanInitiate(im)init",
-            "mangledName": "$s6Tookan0A8InitiateCACycfc",
+            "usr": "s:6Tookan0A8InitiateC13googleMapsKeyACSS_tcfc",
+            "mangledName": "$s6Tookan0A8InitiateC13googleMapsKeyACSS_tcfc",
             "moduleName": "Tookan",
-            "overriding": true,
-            "objc_name": "init",
             "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Override",
-              "AccessControl",
-              "RawDocComment"
+              "AccessControl"
             ],
             "init_kind": "Designated"
           },
@@ -16644,7 +16644,8 @@
             "mangledName": "$s6Tookan0A8InitiateC10initialize7loginId10silentType06deviceG06apiKey0H5Token9customURL16responseReceivedySS_SiS4SySb_SStctF",
             "moduleName": "Tookan",
             "declAttributes": [
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -16872,6 +16873,32 @@
             "funcSelfKind": "NonMutating"
           },
           {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "TookanInitiate",
+                "printedName": "Tookan.TookanInitiate",
+                "usr": "c:@M@Tookan@objc(cs)TookanInitiate"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Tookan@objc(cs)TookanInitiate(im)init",
+            "mangledName": "$s6Tookan0A8InitiateCACycfc",
+            "moduleName": "Tookan",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
             "kind": "Function",
             "name": "applicationWillTerminate",
             "printedName": "applicationWillTerminate()",
@@ -17012,7 +17039,6 @@
           "ObjC"
         ],
         "superclassUsr": "c:objc(cs)NSObject",
-        "inheritsConvenienceInitializers": true,
         "superclassNames": [
           "ObjectiveC.NSObject"
         ],
