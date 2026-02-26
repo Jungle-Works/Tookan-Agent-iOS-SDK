@@ -11,7 +11,9 @@ s.author = { 'Vipul Negi' => 'vipul.negi@jungleworks.com' }
 
 s.source = { :git => 'https://github.com/Jungle-Works/Tookan-Agent-iOS-SDK.git', :tag => s.version }
 s.ios.deployment_target = '13.0'
-s.ios.vendored_frameworks = 'Tookan.framework'
+s.source_files = 'Tookan/**/*.{swift,h,m}'
+s.public_header_files = 'Tookan/**/*.h'
+
 
 s.dependency 'GoogleMaps'
 s.dependency 'Google-Maps-iOS-Utils'
