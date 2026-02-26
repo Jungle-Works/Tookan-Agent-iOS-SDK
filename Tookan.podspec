@@ -15,6 +15,8 @@ s.ios.vendored_frameworks = 'Tookan.framework'
 
 s.dependency 'GoogleMaps'
 s.dependency 'Google-Maps-iOS-Utils'
+s.static_framework = true
+
 s.dependency 'Firebase/Core'
 s.dependency 'FirebaseCrashlytics'
 s.dependency 'DGActivityIndicatorView'
